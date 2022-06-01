@@ -39,7 +39,7 @@ Automated system for testing microcontrollers and routers
 **Bachelor of Computer Science** <br>
 [Moscow Aviation Institute](https://mai.ru) – Moscow, Russia _(Sep 2018 – Aug 2022)_ <br>
 
-Diploma theme: Making an Telegram client with filtering advertisement messages on Russian
+Diploma theme: Making an Telegram client with filtering advertisement messages on Russian <br>
 
 _Technologies used:_ Java 17, Telegram Database Library (TDLib), Swing, Maven, TAWT (Tools for Automated Work with Text - developing by Intelligent Monitoring Systems department in Mocsow Aviation Institute)
 
