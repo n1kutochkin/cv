@@ -37,7 +37,7 @@ Project management and overall tech disciplines for high school students
 ## Volunteer Experience
 
 **Lecturer** @[Moscow Aviation Institute (National Research University)](https://en.mai.ru/) _(Feb 2019 – Apr 2019)_ _(Oct 2019 - Nov 2019)_ <br>
-Organized and lectured programming, CAD-engineering in aviation, 3D printing for high school students
+Organized and lectured programming, CAD-engineering in aviation, 3D printing for high school students <br>
 Involved 4 entrants to enter Moscow Aviation Institute
 
 ## Achievements
@@ -62,11 +62,11 @@ Diploma theme: Making an Telegram client with filtering advertisement messages i
 _Technologies used:_ Java 17, Telegram Database Library (TDLib), Swing, Maven, TAWT (Tools for Automated Work with Text - developing by Intelligent Monitoring Systems department in Mocsow Aviation Institute)
 
 **English language course** <br>
-[Stafford House School of English](https://www.staffordhouse.com/) – Edinburgh, Scotland _(Jul 2014 - Aug 2014)
+[Stafford House School of English](https://www.staffordhouse.com/) – Edinburgh, Scotland _(Jul 2014 - Aug 2014) <br>
 Level: B2 Upper-intermediate
 
 
 **English language course** <br>
-[Stafford House School of English](https://www.staffordhouse.com/) – Canterbury, England _(Jul 2013 - Aug 2013)
+[Stafford House School of English](https://www.staffordhouse.com/) – Canterbury, England _(Jul 2013 - Aug 2013) <br>
 Level: A2 Pre-intermediate
 
