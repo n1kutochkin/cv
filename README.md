@@ -62,11 +62,11 @@ Diploma theme: Making an Telegram client with filtering advertisement messages i
 _Technologies used:_ Java 17, Telegram Database Library (TDLib), Swing, Maven, TAWT (Tools for Automated Work with Text - developing by Intelligent Monitoring Systems department in Mocsow Aviation Institute)
 
 **English language course** <br>
-[Stafford House School of English](https://www.staffordhouse.com/) – Edinburgh, Scotland _(Jul 2014 - Aug 2014) <br>
+[Stafford House School of English](https://www.staffordhouse.com/) – Edinburgh, Scotland _(Jul 2014 - Aug 2014)_ <br>
 Level: B2 Upper-intermediate
 
 
 **English language course** <br>
-[Stafford House School of English](https://www.staffordhouse.com/) – Canterbury, England _(Jul 2013 - Aug 2013) <br>
+[Stafford House School of English](https://www.staffordhouse.com/) – Canterbury, England _(Jul 2013 - Aug 2013)_ <br>
 Level: A2 Pre-intermediate
 
