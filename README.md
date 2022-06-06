@@ -11,7 +11,11 @@ _Software Engineer based in Moscow_ <br>
 Non-equity Securities Workspace for internal usage.
   - Develop an API as proxy-server between frontend React-based application and backend layer written in Java
   - Maintain CI/CD pipeline and migrating infrastructure to cloud-based technologies
-  - **_Technologies used:_** Java 8, Maven, Spring IOC, Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift, JSON-RPC
+  - **_Technologies used:_** Java 8, Maven, Spring IOC, Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift, JSON-RPC <br>
+
+Key Achievements:
+  - Implenented nain scenario of concluding treats for purchasing non-equity securities
+  - Migrated product platform from IBM WebSphere to OpenShift
   <br><br>
   
 Digital Financial Assets Marketplace
@@ -19,14 +23,26 @@ Digital Financial Assets Marketplace
  - Maintain and develop a Scala-written microsevrices
  - Explored Hyperledger blockchain framework for further usage in Sberbank Blockchain Library
  - Maintain CI/CD pipelines
- - **_Technologies used:_** Java 8, Maven, Spring IOC, Spring Boot, PostgreSQL, Docker, OpenShift, Jenkins, Cucumber, Scala, sbt
+ - **_Technologies used:_** Java 8, Maven, Spring IOC, Spring Boot, PostgreSQL, Docker, OpenShift, Jenkins, Cucumber, Scala, sbt <br>
+
+Key Achievements:
+- Migrated product to PostgreSQL RDBMS from Oracle RDBMS
+- Added 30 new APIs for Scala and Java microservices
+- Realized story for buying financial assets via new banking channel
+- Found and fixed a critical bug **prevented losing data** (probability of happening – **15 percents**, Security Critital)
 <br><br>
 
 **Java Desktop Engineer** @[TELEOFIS](https://teleofis.ru) _(Mar 2021 – Jul 2021)_ <br>
 Automated system for testing microcontrollers and routers
  - Maintained and developed new features in RCP-based desktop application
  - Added new features using Apache XMLGraphics library and ZXing
- - **_Technologies used:_** Java 7, Eclipse RCP, OSGI, Jackson, Java Multithreading, Apache XMLGraphics (Batik), ZXing, Java Printing API
+ - **_Technologies used:_** Java 7, Eclipse RCP, OSGI, Jackson, Java Multithreading, Apache XMLGraphics (Batik), ZXing, Java Printing API <br>
+
+Key Ahcievements:
+  - Realized an utility for configuring profiles for labels by special-formatted SVG documents (Designers shoould draw specific layout in SVG format and then cat test it out using real data)
+  - **Decreased time to market by 25 times** with new utilities for design and production department
+  - Added perfomance testing for routers using iPerf testing tool
+  - **Increased reliability** of routers **by 5 percents**
 <br><br>
 
 ## Education Experience
