@@ -11,11 +11,13 @@ _Software Engineer based in Moscow_ <br>
 Non-equity Securities Workspace for internal usage.
   - Develop an API as proxy-server between frontend React-based application and backend layer written in Java
   - Maintain CI/CD pipeline and migrating infrastructure to cloud-based technologies
-  - **_Technologies used:_** Java 8, Maven, Spring IOC, Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift, JSON-RPC <br>
+  - **_Technologies used:_** Java 8-11, Maven, Spring (IOC, Boot), Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift <br>
 
 Key Achievements:
   - Implenented nain scenario of concluding treats for purchasing non-equity securities
-  - Migrated product platform from IBM WebSphere to OpenShift
+  - Migrated product from IBM WebSphere to OpenShift
+  - Implemented semaless build process both in legacy (Java 8) and target solution (Java 11)
+  - Moved application from enterprise application deplying to deployment in container
   <br><br>
   
 Digital Financial Assets Marketplace
@@ -76,6 +78,11 @@ Average Score: 4.3
 Diploma theme: Making an Telegram client with filtering advertisement messages in Russian using NLP <br>
 
 _Technologies used:_ Java 17, Telegram Database Library (TDLib), Swing, Maven, TAWT (Tools for Automated Work with Text - developing by Intelligent Monitoring Systems department in Mocsow Aviation Institute)
+
+**Masters in Automobile Design** <br>
+[Moscow State Stroganov Academy of Industrial and Applied Arts](http://en.stroganov-academy.org) – Moscow, Russia _(Sep 2022 – Aug 2024)_ <br>
+
+
 
 **English language course** <br>
 [Stafford House School of English](https://www.staffordhouse.com/) – Edinburgh, Scotland _(Jul 2014 - Aug 2014)_ <br>
