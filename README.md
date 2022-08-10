@@ -1,4 +1,4 @@
-![Image](https://drive.google.com/uc?id=1QACKU9JncNw5T50oaqWFeiHWuzSg2f0b)
+![Image](https://drive.google.com/uc?id=1uTrsDmToJ--lVNFmRzqkTg1ptXM8U7wU)
 # Nikita Utochkin
 
 _Software Engineer based in Moscow_ <br>
