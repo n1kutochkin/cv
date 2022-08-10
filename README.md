@@ -79,7 +79,7 @@ Diploma theme: Making an Telegram client with filtering advertisement messages i
 
 _Technologies used:_ Java 17, Telegram Database Library (TDLib), Swing, Maven, TAWT (Tools for Automated Work with Text - developing by Intelligent Monitoring Systems department in Mocsow Aviation Institute)
 
-**Masters in Automobile Design** <br>
+**Master of Automobile Design** <br>
 [Moscow State Stroganov Academy of Industrial and Applied Arts](http://en.stroganov-academy.org) – Moscow, Russia _(Sep 2022 – Aug 2024)_ <br>
 
 
@@ -92,4 +92,10 @@ Level: B2 Upper-intermediate
 **English language course** <br>
 [Stafford House School of English](https://www.staffordhouse.com/) – Canterbury, England _(Jul 2013 - Aug 2013)_ <br>
 Level: A2 Pre-intermediate
+
+## Personal Interests
+ - DJing
+ - Active sports (karting, snowboarding, paragliding, boxing)
+ - Interested in Product Management and Technological Entrepreneurship
+ - Interested in learning psychology for personal usage
 
