@@ -100,7 +100,7 @@ Level: A2 Pre-intermediate
  - Interested in learning psychology for personal usage
 
 
-## Technological Interest
+## Technological Interests
  - Try Kotlin in developing enterprise applications
  - Earn skills for developing frontend application (maybe in Vue or React)
  - Earn more experience in System design and analysis
