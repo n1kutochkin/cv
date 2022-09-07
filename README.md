@@ -12,13 +12,13 @@ _Software Engineer based in Moscow_ <br>
 Non-equity Securities Workspace for internal usage.
   - Develop an API as proxy-server between frontend React-based application and backend layer written in Java
   - Maintain CI/CD pipeline and migrating infrastructure to cloud-based technologies
-  - **_Technologies used:_** Java 8-11, Maven, Spring (IOC, Boot), Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift <br>
+  - **_Technologies used:_** Java 8-11, Maven, Spring (IOC, Boot), Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift, Jenkins, JSON-RPC, REST <br>
 
 Key Achievements:
   - Implenented nain scenario of concluding treats for purchasing non-equity securities
   - Migrated product from IBM WebSphere to OpenShift
-  - Implemented semaless build process both in legacy (Java 8) and target solution (Java 11)
-  - Moved application from enterprise application deplying to deployment in container
+  - Implemented semaless build and deploy process both in legacy (Java 8, IRM Websphere WAS) and target solution (Java 11, OpenShift)
+  - Moved application from enterprise web application deploying to deploying as container with Spring Boot app
   <br><br>
   
 Digital Financial Assets Marketplace
@@ -26,7 +26,7 @@ Digital Financial Assets Marketplace
  - Maintain and develop a Scala-written microsevrices
  - Explored Hyperledger blockchain framework for further usage in Sberbank Blockchain Library
  - Maintain CI/CD pipelines
- - **_Technologies used:_** Java 8, Maven, Spring IOC, Spring Boot, PostgreSQL, Docker, OpenShift, Jenkins, Cucumber, Scala, sbt <br>
+ - **_Technologies used:_** Java 8, Maven, Spring IOC, Spring Boot, PostgreSQL, Docker, OpenShift, Jenkins, Cucumber, Scala, sbt, Hyperledger Fabric (only overall view), JSON-RPC, REST <br>
 
 Key Achievements:
 - Migrated product to PostgreSQL RDBMS from Oracle RDBMS
@@ -80,9 +80,8 @@ Diploma theme: Making an Telegram client with filtering advertisement messages i
 
 _Technologies used:_ Java 17, Telegram Database Library (TDLib), Swing, Maven, TAWT (Tools for Automated Work with Text - developing by Intelligent Monitoring Systems department in Mocsow Aviation Institute)
 
-**Master of Automobile Design** <br>
-[Moscow State Stroganov Academy of Industrial and Applied Arts](http://en.stroganov-academy.org) – Moscow, Russia _(Sep 2022 – Aug 2024)_ <br>
-
+**Master of Automotive Design** <br>
+[Moscow State Stroganov Academy of Industrial and Applied Arts](http://en.stroganov-academy.org) – Moscow, Russia _(Sep 2022 – Aug 2024)_ <br> <br>
 
 
 **English language course** <br>
@@ -100,3 +99,10 @@ Level: A2 Pre-intermediate
  - Interested in Product Management and Technological Entrepreneurship
  - Interested in learning psychology for personal usage
 
+
+## Technological Interest
+ - Try Kotlin in developing enterprise applications
+ - Earn skills for developing frontend application (maybe in Vue or React)
+ - Earn more experience in System design and analysis
+ - Developing Music Streaming services
+ - Try myself more in product development and management
