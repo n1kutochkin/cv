@@ -12,7 +12,7 @@ _Software Engineer based in Moscow_ <br>
 Non-equity Securities Workspace for internal usage.
   - Develop an API as proxy-server between frontend React-based application and backend layer written in Java
   - Maintain CI/CD pipeline and migrating infrastructure to cloud-based technologies
-  - **_Technologies used:_** Java 8-11, Maven, Spring (IOC, Boot), Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, OpenShift, Jenkins, JSON-RPC, REST <br>
+  - **_Technologies used:_** Java 8-11, Maven, Spring (IOC, Boot), Jetty, Java EE (JAX-RS), Lombok, Slf4J, IBM WebSphere, Docker, OpenShift, Jenkins, JSON-RPC, REST <br>
 
 Key Achievements:
   - Implenented nain scenario of concluding treats for purchasing non-equity securities
