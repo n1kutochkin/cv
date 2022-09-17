@@ -4,7 +4,9 @@
 
 _Software Engineer based in Moscow_ <br>
 
-[E-mail](mailto:n1kutochkin@yandex.ru) / [Linkedin](https://www.linkedin.com/in/n1kutochkin) / [GitHub](https://github.com/n1kutochkin) / [Telegram](https://t.me/n1kutochkin)
+[E-mail](mailto:n1kutochkin@yandex.ru) / [Linkedin](https://www.linkedin.com/in/n1kutochkin) / [GitHub](https://github.com/n1kutochkin) / [Telegram](https://t.me/n1kutochkin) <br>
+
+**_Links are clickable! - just click on one of them :)_**
 
 ## Engineer Experience
 
