@@ -2,7 +2,7 @@
 
 # Nikita Utochkin
 
-_Software Engineer based in Moscow_ <br>
+_Software Engineer_ <br>
 
 [E-mail](mailto:n1kutochkin@yandex.ru) / [Linkedin](https://www.linkedin.com/in/n1kutochkin) / [GitHub](https://github.com/n1kutochkin) / [Telegram](https://t.me/n1kutochkin) <br>
 
